@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  csv: MyText
+  filename: MyString
+  session_id: 1
+  input_csv: MyText
+  epsilon: 1.5
+
+two:
+  csv: MyText
+  filename: MyString
+  session_id: 1
+  input_csv: MyText
+  epsilon: 1.5
